@@ -14,7 +14,7 @@ tabs = st.tabs([
     "2. Aceptación-Rechazo", 
     "3. Convolución", 
     "4. Composición", 
-    "5. Proceso Poisson", 
+    "5. Proceso Poisson",
     "6. Cadenas de Markov",
     "7. Monte Carlo (Pi)"  # <--- NUEVA PESTAÑA
 ])
